@@ -65,7 +65,7 @@ Estudante de Engenharia de Software (PUC Minas, 6º período) com experiência p
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeaps46&theme=tokyonight" alt="Contribuições no ano"/>
+  <img width="98.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeaps46&theme=tokyonight" alt="Contribuições no ano"/>
 </div>
 
 <div align="center">
