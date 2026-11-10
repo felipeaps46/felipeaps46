@@ -65,16 +65,12 @@ Estudante de Engenharia de Software (PUC Minas, 6º período) com experiência p
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeaps46&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeaps46&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeaps46&theme=tokyonight" alt="Contribuições no ano"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeaps46&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipeaps46&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipeaps46&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipeaps46&theme=tokyonight" alt="Repositórios por linguagem"/>
 </div>
 
 ---
